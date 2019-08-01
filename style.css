@@ -1,0 +1,54 @@
+.body__header {
+    background-color: lightgreen;
+    color:black;
+    padding:8px;
+    height:70px;
+    text-align: center;
+    font-family:sans-serif;
+	
+}
+.content_block{
+    float: left;
+    width: 100%;
+    background-color:lightblue;
+    height: 500px;
+    font-family:sans-serif;
+    position: relative;
+    padding: 10px;
+}
+.start_button{
+    background-color : lightseagreen;
+	width : 150px;
+	height : 30px;
+	color : black;
+    margin-top :100px;
+    margin-right: 200px;
+    border : 0px;
+    bottom: 0;
+    cursor:pointer;
+    position: relative;
+    float:right;
+}
+.next_button{
+    background-color : lightseagreen;
+	width : 150px;
+	height : 30px;
+	color : black;
+	margin-top :7px;
+    border : 0px;
+    bottom: 0;
+    cursor:pointer;
+    position: relative;
+    float:right;
+    margin-top :100px;
+    margin-right: 200px;
+}
+.congrats{
+    float:center;
+    color:black;
+   
+}
+#timer{
+    float:right;
+    margin-right:30px;
+}
